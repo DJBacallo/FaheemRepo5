@@ -4,6 +4,6 @@ echo "Building the sample project..."
 # Run the Python script to check if it works test123
 python3 sample_code.py
 
-# Check for PEP 8 compliance
+# Check for PEP 8 compliance dasf
 echo "Checking for PEP 8 compliance..."
 pycodestyle sample_code.py --max-line-length=100
